@@ -11,7 +11,6 @@ A website made using Bootstrap4 to keep track of my progress as a web developer.
 ## Purpose
 
 Dev'Olution is a personal project I created to make it simple for people to see my progress as a developer.
-The main goal is to centralize my tunes and liveries in one single place so it's easier to find what you want/need and access it.
 Another goal of this project is to show how organized I am, and to keep learning as I'm making another website.
 
 It'll be organized as a blog, I want it to look clean, simple. I also want it to be straightforward and easy to navigate.
